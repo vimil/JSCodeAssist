@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.wst.jsdt.core_1.3.401.v201511181529.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common_3.8.0.v20160118-2024.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime_3.12.0.v20160120-1402.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi_3.11.0.v20160121-2005.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.registry_3.6.100.v20151218-1401.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
